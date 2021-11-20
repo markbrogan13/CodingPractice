@@ -1,0 +1,27 @@
+INFO:root:Starting Time: 2021-11-19_18-13-34
+INFO:root:
+
+Currently working on 0 len passwords
+INFO:root:Tried 1 passwords
+INFO:root:
+
+Currently working on 1 len passwords
+INFO:root:Tried 2 passwords
+INFO:root:
+
+Currently working on 2 len passwords
+INFO:root:Tried 78 passwords
+INFO:root:
+
+Currently working on 3 len passwords
+INFO:root:Tried 5854 passwords
+INFO:root:
+
+Currently working on 4 len passwords
+INFO:root:Tried 444830 passwords
+WARNING:root:
+Password found: C8!e
+
+INFO:root:
+End Time: 2021-11-19_18-13-37
+INFO:root:Total Time: 3.4432473182678223
